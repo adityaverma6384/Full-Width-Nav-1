@@ -5,4 +5,4 @@ Description
 -----------
 
 A horizontal navigation that evenly spaces out the navigation 'buttons' across the width of the page.
-It uses YUI for the sub nav.
+It uses YUI for the sub navigation.
